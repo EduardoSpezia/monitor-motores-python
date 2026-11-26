@@ -223,4 +223,6 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Armazenar senhas
-.env, .log, dados_sensiveis/
+.env
+.log 
+dados_sensiveis/
